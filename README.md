@@ -1,5 +1,5 @@
 # SLINKY CRACKED DLLS - 1.7.10/1.8.9
-======
+
 # Requirements:
 - Download Both Slinky DLLs, As You Will Need Them.
 - Download Any Safe & Working DLL Injector.
