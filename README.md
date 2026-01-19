@@ -17,4 +17,4 @@
 master131 - Safest DLL Injector Probably In The Community For These Types Of Things Only
 Slinky Cracked DLLs: This Shit Wasn't Hard To Crack, Skids....
 --------------------------
-[Discord Server](https://discord.gg/Ymm8HkVemJ);
+[Discord Server](https://discord.gg/Ymm8HkVemJ) - Join For Latest Releases & Updates!
