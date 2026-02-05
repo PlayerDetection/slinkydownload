@@ -15,7 +15,7 @@ https://github.com/PlayerDetection/slinkyinjector
 
 **Credits:**  
 -  HoeRyzen: Making and Releasing Injector For Slinky
--  Slinky Cracked DLLs: PlutoSolutions
--  Released: 3000IQPlay
+-  Cracked The DLLs: PlutoSolutions
+-  Released The DLLs: 3000IQPlay
 --------------------------
 [Discord Server](https://discord.gg/Ymm8HkVemJ) - Join For Latest Releases & Updates!
