@@ -14,7 +14,8 @@ https://github.com/PlayerDetection/slinkyinjector
 
 
 **Credits:**  
--  master131 - Safest DLL Injector Probably In The Community For These Types Of Things Only
+-  HoeRyzen: Making and Releasing Injector For Slinky
 -  Slinky Cracked DLLs: PlutoSolutions
+-  Released: 3000IQPlay
 --------------------------
 [Discord Server](https://discord.gg/Ymm8HkVemJ) - Join For Latest Releases & Updates!
