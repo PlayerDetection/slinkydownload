@@ -14,7 +14,7 @@ https://github.com/PlayerDetection/slinkyinjector
 
 
 **Credits:**  
-master131 - Safest DLL Injector Probably In The Community For These Types Of Things Only
-Slinky Cracked DLLs: PlutoSolutions
+-  master131 - Safest DLL Injector Probably In The Community For These Types Of Things Only
+-  Slinky Cracked DLLs: PlutoSolutions
 --------------------------
 [Discord Server](https://discord.gg/Ymm8HkVemJ) - Join For Latest Releases & Updates!
