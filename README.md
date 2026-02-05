@@ -8,9 +8,9 @@
 # Resources:
 - Extreme Injector v3.7.3:
    
-![](https://i.imgur.com/PMUNaI0.png)
+![](https://cdn.discordapp.com/attachments/1462190542728462470/1468988730197938311/Screenshot_1.png?ex=698605dd&is=6984b45d&hm=df1f463265afb651b5eb74a54b51024926e2e89ed24f0ee629397d45f6e043b4&)
 
-  https://github.com/master131/ExtremeInjector
+https://github.com/PlayerDetection/slinkyinjector
 
 
 **Credits:**  
